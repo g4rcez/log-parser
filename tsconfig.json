@@ -11,6 +11,8 @@
     "preserveConstEnums": true,
     "importHelpers": true,
     "esModuleInterop": true,
+    "module": "NodeNext",
+    "moduleResolution": "Node",
     "lib": ["DOM", "ESNext"],
     "target": "ES6",
   }
